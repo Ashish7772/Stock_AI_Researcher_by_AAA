@@ -1,0 +1,11 @@
+STOCK AI RESEARCHER BY AAA — VERIFIED MAC BUILD
+
+1. Unzip this package.
+2. In Terminal, cd into the extracted folder.
+3. Run: bash scripts/setup_mac.sh
+   This installs dependencies and runs the full local verification suite.
+4. Run: bash scripts/run_mac.sh
+5. Open: http://localhost:8501
+
+The app requires internet access for live market/fundamental/news data.
+If a free data provider rate-limits, wait and retry.
